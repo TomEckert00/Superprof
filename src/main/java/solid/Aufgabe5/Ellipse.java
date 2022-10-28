@@ -10,6 +10,7 @@ public class Ellipse extends Figure{
     public void stretchX(){
 
     }
+
     public void stretchY(){
 
     }
