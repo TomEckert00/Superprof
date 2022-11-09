@@ -1,4 +1,4 @@
-package designpatterns.aufgaben.aufgabe3decorator;
+package designpatterns.aufgaben.aufgabe3;
 
 public class SmartTroll implements Hostile{
     private Hostile hostile;

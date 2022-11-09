@@ -1,4 +1,4 @@
-package designpatterns.aufgaben.aufgabe4adapter;
+package designpatterns.aufgaben.aufgabe4;
 
 public class GoblinGlider {
 
